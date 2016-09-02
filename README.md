@@ -5,3 +5,5 @@ Learn Git from Basic
 Selamat Datang 
 
 Haii
+
+Terima Kasih
